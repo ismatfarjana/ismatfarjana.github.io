@@ -1,4 +1,4 @@
-# Portfolio Site of Tanim Mahmud
+# Portfolio Site of Syeda Ismat Farjana
 
 ## Aim
 
@@ -237,4 +237,4 @@ load time result using google chrome developer tools.
 
 ## Live
 
-https://tanimmahmud.github.io/
+https://ismatfarjana.github.io/
